@@ -92,6 +92,26 @@ nav a:hover {
   background: #0ea5e9;
 }
 
+.projects {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.project-card {
+  background: #1e293b;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 400px;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #38bdf8;
+  text-decoration: none;
+}
+
 /* Sections */
 .section {
   padding: 80px 0;
